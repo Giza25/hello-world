@@ -1,8 +1,7 @@
 # hello-world
-GizaYaY
 
-  I am a 17yo student from Moscow. I am on the first grade of MTUCI.
-  I am just doing my part in programming community. 
+  Born in 2001 in Moscow. Now temporarily live in Batumi, Georgia.
+  Know a bunch of stuff but don't have real experience.
   
   
-  Really loves memes)
+  Really love memes XD
